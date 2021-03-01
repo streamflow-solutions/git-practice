@@ -1,1 +1,2 @@
 fast-forward
+# merge commit
